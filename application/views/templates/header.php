@@ -10,6 +10,15 @@
 </head>
 
 <body>
+    <style>
+        * {
+            color: white;
+        }
+
+        body {
+            background-color: #3e3e42;
+        }
+    </style>
     <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
         <div class="container-fluid">
             <a class="navbar-brand" href="#"><span style="color:#c1ff72;" class="fw-bold fs-3">MY</span><span style="color:#7ed957;" class="fw-bold fs-4">Ani</span><span style="color:#ffde59;" class="fw-bold fs-4">me</span></a>
